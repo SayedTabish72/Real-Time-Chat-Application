@@ -13,4 +13,4 @@ https://user-images.githubusercontent.com/93794214/175771261-e00bd674-1cce-4f4c-
 
 After download or clone run npm install to install all the dependancies.
 And http://localhost:3000/
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository.:)
