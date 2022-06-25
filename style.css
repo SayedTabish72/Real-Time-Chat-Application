@@ -14,8 +14,36 @@ body {
     min-height: 100vh;
     background: #252B37;
     font-family: 'Roboto', sans-serif;
-    
+    margin: 1rem;
+  background-color: #bad0b8;
+  background-image: -webkit-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -moz-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -o-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -ms-linear-gradient(right, #FC7864, #FDA366);
+  background-image: linear-gradient(right, #FC7864, #FDA366);
 }
+article { 
+  width: 100%; 
+  margin: 60px auto; 
+  text-align: center;
+  zoom: 2;
+}
+
+a { 
+    outline: none; 
+    border: 0; 
+    text-decoration: none; 
+  }
+  a svg #facebook,
+  a svg #instagram { 
+    transition: 200ms;
+    transition-timing-function: ease-in-out;
+    -webkit-transition: 200ms;
+    -webkit-transition-timing-function: ease-in-out;
+  }
+
+  
+
 section.chat__section {
     width: 800px;
     max-width: 90%;
